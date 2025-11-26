@@ -26,4 +26,4 @@ The tool converts chess positions into analyzable board states, enabling deep an
 
 ### Configuration
 
-Currently, the username is hardcoded in `main.rs`. To analyze a different player's games, modify the username in the `fetch_games()` call in the main function.
+Currently, the username is hardcoded in `main.rs`. To analyze a different player's games, modify the username in the `fetch_games()` call in the main function
